@@ -65,9 +65,9 @@ pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
 risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
 media.net, 8cu5l226o, RESELLER
-media.net, 8cu12aq1y, RESELLER
+media.net,8CU12AQ1Y,RESELLER
 media.net, 8cu355vs4, RESELLER
-media.net, 8cu9b72o6, RESELLER
+media.net,8CU9B72O6,RESELLER
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
 zmaticoo.com, 5135195, RESELLER
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
@@ -84,8 +84,8 @@ sharethrough.com, 5828-OB, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9b1mg7e, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ibazay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5828, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
+sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,Bc6D1WHS,RESELLER,d53b998a7bd4ecd2
 sharethrough.com, ftvct81v, RESELLER
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
 ignitemediatech.com, pub_11115, RESELLER
