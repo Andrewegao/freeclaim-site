@@ -42,9 +42,9 @@ export function Footer() {
               Always free.
             </p>
             {/* Store badges in footer */}
-            <div className="mt-6 flex flex-col gap-2.5">
-              <AppStoreBadge href={IOS_URL} />
-              <GooglePlayBadge href={ANDROID_URL} />
+            <div className="mt-6 flex flex-col gap-2">
+              <AppStoreBadge href={IOS_URL} size="sm" />
+              <GooglePlayBadge href={ANDROID_URL} size="sm" />
             </div>
           </div>
 
