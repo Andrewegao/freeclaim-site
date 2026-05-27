@@ -618,3 +618,10 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 586616193, RESELLER
 smartadserver.com, 4111, RESELLER
+onetag.com, 96de2b4d6e756dc, DIRECT
+onetag.com, 96de2b4d6e756dc-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
+smartadserver.com, 4111, RESELLER
