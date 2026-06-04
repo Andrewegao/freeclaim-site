@@ -627,3 +627,5 @@ video.unrulymedia.com, 586616193, RESELLER
 smartadserver.com, 4111, RESELLER
 openx.com, 566165581, DIRECT, 6a698e2ec38604c6
 openx.com, 566165581, RESELLER, 6a698e2ec38604c6
+uis.mobfox.com, 2556, DIRECT, 5529a3d1f59865be
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
