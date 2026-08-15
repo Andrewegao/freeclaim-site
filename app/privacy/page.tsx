@@ -12,7 +12,7 @@ export default function PrivacyPage() {
     <LegalShell
       eyebrow="Legal"
       title="Privacy Policy"
-      meta={`${COMPANY} · Last updated August 12, 2026`}
+      meta={`${COMPANY} · Last updated August 15, 2026`}
     >
       <p>
         FreeClaim respects your privacy. This policy explains what remains on
@@ -54,6 +54,13 @@ export default function PrivacyPage() {
           required by Apple.
         </li>
         <li>
+          <strong>Meta App Events:</strong> App installation and activation
+          events, general app/device information, IP address, and device
+          identifiers where permitted by consent and device settings. This is
+          used to measure and attribute FreeClaim app-promotion campaigns; it
+          does not display ads in the App.
+        </li>
+        <li>
           <strong>Firebase Remote Config:</strong> App configuration requests
           and associated technical information.
         </li>
@@ -70,7 +77,8 @@ export default function PrivacyPage() {
       <p>
         These services may process IP addresses and other technical information
         as part of providing their services. This data is governed by the
-        applicable Google, Firebase, and Apple terms and retention practices.
+        applicable Google, Firebase, Meta, and Apple terms and retention
+        practices.
       </p>
 
       <h2>Data we do not request</h2>
